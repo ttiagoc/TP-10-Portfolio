@@ -5,7 +5,6 @@ import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 import { CgFileDocument } from "react-icons/cg";
 import { Link } from "react-router-dom";
-import { AiOutlineClose } from "react-icons/ai";
 import PropTypes from 'prop-types'
 
 import { FavouritesContext } from "../../context/FavouritesContext"
